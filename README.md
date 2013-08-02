@@ -1,3 +1,3 @@
-makeshare.bat
+BU tools
 =============
-Quick and dirty script to create a directory under our file-server with the correct permissions (read, write, modify, but no delete for the top-level directory).
+Stuff I used during my systems/network administration days at Boston University.
