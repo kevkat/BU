@@ -1,3 +1,3 @@
-BU tools
+Sysadmin tools
 =============
-Stuff I used during my systems/network administration days at Boston University.
+Stuff I used during my systems/network administration days.
